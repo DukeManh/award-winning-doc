@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaward_winning_doc=self.webpackChunkaward_winning_doc||[]).push([[253],{1291:function(n){n.exports=JSON.parse('{"permalink":"/award-winning-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaward_winning_doc=self.webpackChunkaward_winning_doc||[]).push([[771],{9985:function(n){n.exports=JSON.parse('{"allTagsPath":"/award-winning-doc/blog/tags","slug":"/award-winning-doc/blog/tags/hello","name":"hello","count":2,"permalink":"/award-winning-doc/blog/tags/hello"}')}}]);
